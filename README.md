@@ -10,6 +10,7 @@ Para cumplir nuestro objetivo, divido el trabajo en los siguientes notebooks:
 
 ## Librerías
 Para la realización del proyecto, he utilizado las sigientes librerías:
+
 [pandas](https://pandas.pydata.org/)
 
 [requests](https://pypi.org/project/requests/2.7.0/)
