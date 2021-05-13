@@ -1,7 +1,7 @@
 # P3-Geoqueries
 ![CIUDAD](https://github.com/Antoniopita95/P3-Geoqueries/blob/main/image/ciudad.jpg)
 ## Introducción
-Este es el tercer proyecto que realizo en el bootcamp de Ironhack. El objetivo de éste, es realizar querys a través de una base de datos de Mongodb para encontrar la mejor ubicación donde colocar nuestra empresa, apoyando nuestra decisión con los datos sacados.
+Este es el tercer proyecto que realizo en el bootcamp de Ironhack. El objetivo de éste, es realizar querys a través de una base de datos de Mongodb para encontrar la mejor ubicación donde colocar nuestra empresa, apoyando nuestra decisión con los datos obetenidos.
 
 ## Estructura
 Para cumplir nuestro objetivo, divido el trabajo en los siguientes notebooks:
